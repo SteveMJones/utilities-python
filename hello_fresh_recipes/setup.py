@@ -38,7 +38,7 @@ setup(
         'beautifulsoup4==4.5.3',
         'future==0.16.0',
         'configparser==3.5.0',
-        'dataset'
+        'sqlalchemy'
     ],
     packages=get_packages(),
     entry_points={
