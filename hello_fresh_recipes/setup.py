@@ -5,7 +5,7 @@ from os import path
 from setuptools import find_packages, setup
 
 ROOT = path.dirname(__file__)
-NAME = 'src'
+NAME = 'hello_fresh_recipes'
 DESCRIPTION = 'Automatically download and parse Hello Fresh Recipes.'
 
 
